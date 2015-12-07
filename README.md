@@ -16,6 +16,7 @@ Form view  | QR code dialog
 ## TODO
 
 * **Bundle using webpack** (this will simplify release process, make builds smaller and improve app speed),
+* Switch to tar.gz to persist file permissions,
 * Generating random keypairs,
 * Support all operations,
 * Support memo.
