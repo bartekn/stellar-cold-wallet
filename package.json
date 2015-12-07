@@ -1,0 +1,18 @@
+{
+  "name": "stellar-cold-wallet",
+  "version": "0.0.1",
+  "dependencies": {
+    "babel": "^6.3.13",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "babel-register": "^6.3.13",
+    "electron-prebuilt": "^0.35.4",
+    "lodash": "^3.10.1",
+    "material-ui": "^0.13.4",
+    "qrcode.react": "^0.5.2",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3",
+    "react-tap-event-plugin": "^0.2.1",
+    "stellar-base": "^0.4.17"
+  }
+}
