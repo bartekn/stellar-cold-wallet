@@ -1,3 +1,8 @@
+> This project is no longer maintained because of a [bug in atom/electron](https://github.com/atom/electron/issues/3719).
+>
+> **[cold](https://github.com/bartekn/cold)** is a better alternative.
+
+
 # stellar cold wallet
 
 **Do not use - it contains bugs!**
